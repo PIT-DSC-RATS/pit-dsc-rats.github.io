@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Switcheroo and Updates"
+title: "Graph Updates"
 subtitle: "Little mistake, big changes"
 background: "/img/mark_recapture/marker.jpg"
 ---
