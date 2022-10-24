@@ -2,20 +2,22 @@
 layout: post
 title: "Gathering Data for Rat Populations Estimation"
 subtitle: "311 Calls NYC Open Data"
-background: "https://opendata.cityofnewyork.us/wp-content/themes/opendata-wp/assets/img/nyc-opendata-logo-og-facebook.png"
+background: "/img/data_gathering/data-gathering-bg.png"
 ---
 
 ## Background
 
 "If we can't measure it, then it doesn't exist" Not in the sense that the unmeasurable simply phases out of existence, but if we can't measure the extent of a problem we have little to no clue on how to start dealing with said problem.
 
-![Rat](\img\data_gathering\raterister.jpeg)
+![Rat](\img\data_gathering\ratbox.jpg)
+<span class="caption text-muted">Photographer: Gary Hershorn/Corbis News/Getty Images</span>
 
 Estimating the population of the furry New York Natives can either be very easy or very difficult. Is it as simple as "There's a rat for every person in the city" or Do we go on an excursion to find and count every rat? The latter is BIG ask for 4 interns. So, what do we do? We turn to the next best thing, estimations! As previously mentioned we can just say "There's one rat for every person in New York City" and be done with it. But is that really the case? Surely we can do better? And do better we did.
 
 Building on the work our mentor and project owner, [Jonathan L. Auerbach's](https://jauerbach.github.io/), we will be using his framework to try and get more accurate estimations of how many rats in New York City, and maybe even localize those estimations to a Borough or Neighborhood level, over the more conventional myth of the one to one ratio of people to rats.
 
-[NYC OpenData](https://opendata.cityofnewyork.us/data) has a catalog of datasets ranging from Maps of Subway Entrances, Film Permits, to 311 Calls. Visit the site for all you NYC data needs!
+[![nycopendata](\img\data_gathering\nycopendata.png)](https://opendata.cityofnewyork.us/data)
+<span class="caption text-muted">NYC OpenData has a catalog of datasets ranging from Maps of Subway Entrances, Film Permits, to 311 Calls. Visit the site for all you NYC data needs!</span>
 
 ## Initial Data Cleaning with R filter()
 
