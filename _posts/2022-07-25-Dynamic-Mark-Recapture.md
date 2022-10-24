@@ -2,7 +2,7 @@
 layout: post
 title: "Dynamic Mark-Recapture"
 subtitle: "Circumventing the erratic figures"
-background: "/img/mark_recapture/marker.jpg"
+background: "https://alameda.edu/wp-content/uploads/2021/07/GettyImages-154932300.jpg"
 ---
 
 ## What is this Dynamic Mark-Recapture Method?

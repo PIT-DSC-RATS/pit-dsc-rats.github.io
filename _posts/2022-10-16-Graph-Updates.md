@@ -2,7 +2,7 @@
 layout: post
 title: "Graph Updates"
 subtitle: "Little mistake, big changes"
-background: "/img/mark_recapture/marker.jpg"
+background: "https://www.markigence.com/blog/wp-content/uploads/2020/06/@2x-Blog-Continuous-Learning-Update-animation.gif"
 ---
 
 ## Scatterplot Update
