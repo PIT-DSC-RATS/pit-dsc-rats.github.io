@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gathering Data for Rat Populations Estimation"
+title: "Gathering the Data"
 subtitle: "311 Calls NYC Open Data"
 background: "/img/data_gathering/data_bg.gif"
 ---
