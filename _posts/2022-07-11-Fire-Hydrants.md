@@ -17,11 +17,11 @@ The plan was simple, go out on select streets and avenues and record a specific 
 
 #### This map plots the violations that we observed.
 
-![observed](https://raw.githubusercontent.com/marmar897/RatsData/main/Graphs/observed_manhattan.png)
+![observed](\img\fire_hydrants\observed_manhattan.png)
 
 #### This map plots the violations that we observed and were ticketed.
 
-![ticketed](https://raw.githubusercontent.com/marmar897/RatsData/main/Graphs/ticketed_manhattan.png)
+![ticketed](\img\fire_hydrants\ticketed_manhattan.png)
 
 ### Get ready for some numbers thrown your way.
 

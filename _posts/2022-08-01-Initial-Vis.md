@@ -7,7 +7,7 @@ background: "/img/initial_vis/data_vis_bg.png"
 
 ## Line Graphs
 
-![Non-Stacked](https://raw.githubusercontent.com/marmar897/RatsData/main/Graphs/mari_Graph_Non-Stacked_3x5.png)
+![Non-Stacked](\img\initial_vis\mari_Graph_Non-Stacked_3x5.png)
 
 This graph shows the rat population over the years separated into boroughs. We can see that Staten Island has the least amount of rats and Brooklyn has the most amount of rats, in terms of absolute numbers.
 
@@ -17,7 +17,7 @@ This line graphs shows a similar story to the line graph above, showing the dist
 
 ## Scatterplot
 
-![Scatterplot](https://raw.githubusercontent.com/marmar897/RatsData/main/Graphs/mari_graphNYCRatio20_1x1.png)
+![Scatterplot](\img\initial_vis\mari_graphNYCRatio20_3x5.png)
 
 New Yorkers tend to affiliate themselves to their boroughs and they're neighborhood. To show a little more granularity, each point on this scatterplot shows New York City's 42 Neighborhoods.
 
