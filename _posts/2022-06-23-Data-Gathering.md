@@ -7,7 +7,7 @@ background: "/img/data_gathering/data_bg.gif"
 
 ## Background
 
-"If we can't measure it, then it doesn't exist" Not in the sense that the unmeasurable simply phases out of existence, but if we can't measure the extent of a problem we have little to no clue on how to start dealing with said problem.
+"If we can't asldkjasd it, then it doesn't exist" Not in the sense that the unmeasurable simply phases out of existence, but if we can't measure the extent of a problem we have little to no clue on how to start dealing with said problem.
 
 ![Rat](\img\data_gathering\ratbox.jpg)
 <span class="caption text-muted">Photographer: Gary Hershorn/Corbis News/Getty Images</span>
