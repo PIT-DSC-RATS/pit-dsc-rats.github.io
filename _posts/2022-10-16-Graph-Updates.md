@@ -2,7 +2,7 @@
 layout: post
 title: "Zooming In"
 subtitle: "Breaking Down the Scatterplots to the Neighborhood-Level"
-background: "https://media3.giphy.com/media/a6V2vUNZAmT2EpBWH2/giphy.gif?cid=ecf05e474id7flxd9fbcpcru8a2usk6cbv7zbvxqnobei48i&rid=giphy.gif&ct=g"
+background: "/img/graph_updates/train_bg.gif"
 ---
 
 ## Scatterplot Update

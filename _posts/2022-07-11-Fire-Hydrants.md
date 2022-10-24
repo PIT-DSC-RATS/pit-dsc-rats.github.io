@@ -2,7 +2,7 @@
 layout: post
 title: "Fire Hydrants and Rats"
 subtitle: "Unconventional method of validating 311 calls"
-background: "https://cdn.viewing.nyc/assets/media/c1ca9bc8c449a2797606dd45dcb1adbe/elements/56b86fc813c3e1500f281d890bffa401/xl/9d222443-1149-46e1-a4e4-fd06b5f1afb6_1x.jpg"
+background: "/img/fire_hydrants/hydrant_bg.jpg"
 ---
 
 ## 311 Calls - Are they reliable?
