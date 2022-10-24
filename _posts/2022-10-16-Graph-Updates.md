@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Graph Updates"
-subtitle: "Little mistake, big changes"
-background: "https://www.markigence.com/blog/wp-content/uploads/2020/06/@2x-Blog-Continuous-Learning-Update-animation.gif"
+title: "Zooming In"
+subtitle: "Breaking Down the Scatterplots to the Neighborhood-Level"
+background: "https://media3.giphy.com/media/a6V2vUNZAmT2EpBWH2/giphy.gif?cid=ecf05e474id7flxd9fbcpcru8a2usk6cbv7zbvxqnobei48i&rid=giphy.gif&ct=g"
 ---
 
 ## Scatterplot Update
@@ -11,30 +11,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Bronx Scatterplot Rat Population Growth 2011 - 2020
 
-Bronx
-Bronx
-Bronx
+![Bronx]
 
 ## Brooklyn Scatterplot Rat Population Growth 2011 - 2020
 
-Brooklyn
-Brooklyn
-Brooklyn
+![Brooklyn]
 
 ## Manhattan Scatterplot Rat Population Growth 2011 - 2020
 
-Manhattan
-Manhattan
-Manhattan
+![Manhattan]
 
 ## Queens Scatterplot Rat Population Growth 2011 - 2020
 
-Queens
-Queens
-Queens
+![Queens]
 
 ## Staten Island Scatterplot Rat Population Growth 2011 - 2020
 
-Staten Island
-Staten Island
-Staten Island
+![Staten]

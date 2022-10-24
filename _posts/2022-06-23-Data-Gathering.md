@@ -24,10 +24,11 @@ Building on the work our mentor and project owner, [Jonathan L. Auerbach's](http
 With all the recorded 311 calls from 2010 to 2021 at the time of this project there were a lot of calls to go through, and by a lot we mean close 30 Million 311 calls to go through. Thankfully we don't have to go through them one by one manually. We cut down the unecessary data through some filters in R. I mean we don't need information noise complaints when looking at rats no? So we filter for Calls that do not have the BBL and Year data points missing. We also refactor some variables from "Incident Zip" to a much simpler "Zip" and separating the "Month_Year" variable into variables "Month" and "Year".
 
 ![Code](\img\data_gathering\coderist.png)
+<span class="caption text-muted">Snippet of code showing the filtering process and refactorization</span>
 
 ## Refactoring Cleaned Data Sets
 
 With the Data now cleaned and refactoring some variables, we separated the data into smaller data sets into 5 boroughs and into 42 distinct neigborhoods. This way we can see the differences and much more easily apply the [Capture-Recapture Method](https://en.wikipedia.org/wiki/Mark_and_recapture) that will be discussed further in the next post. As a little sneak peek, Capture-Recapture Method, more commonly know as Mark-Recapture Method is a method commonly used in ecology to estimate an animal population's size where it is impractical to count every individual.
 
 ![Neighborhood](\img\data_gathering\Neighborhooderist.png)
-<span class="caption text-muted">snippet of code showing Zip Codes getting grouped into their respective neighborhoods</span>
+<span class="caption text-muted">Snippet of code showing Zip Codes getting grouped into their respective neighborhoods</span>
