@@ -7,24 +7,24 @@ background: "/img/graph_updates/train_bg.gif"
 
 ## Scatterplot Update
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We've previously established that changes in rat population may be erratic. So, it helps to look at rat populations at two points in time, 2011 and 2020, to see where we started and where we are right now. Did we improve or did we get worse?
 
-## Bronx Scatterplot Rat Population Growth 2011 - 2020
+#### Bronx Scatterplot Rat Population Growth 2011 - 2020
 
-![Bronx](\img\graph_updates\BRONX_RATIO_PoT_3x5.png)
+![Bronx](\img\graph_updates\aBRONX_RATIO_PoT_3x5.png)
 
-## Brooklyn Scatterplot Rat Population Growth 2011 - 2020
+#### Brooklyn Scatterplot Rat Population Growth 2011 - 2020
 
-![Brooklyn](\img\graph_updates\BROOKLYN_RATIO_PoT_3x5.png)
+![Brooklyn](\img\graph_updates\aBROOKLYN_RATIO_PoT_3x5.png)
 
-## Manhattan Scatterplot Rat Population Growth 2011 - 2020
+#### Manhattan Scatterplot Rat Population Growth 2011 - 2020
 
-![Manhattan](\img\graph_updates\MANHATTAN_RATIO_PoT_3x5.png)
+![Manhattan](\img\graph_updates\aMANHATTAN_RATIO_PoT_3x5.png)
 
-## Queens Scatterplot Rat Population Growth 2011 - 2020
+#### Queens Scatterplot Rat Population Growth 2011 - 2020
 
-![Queens](\img\graph_updates\QUEENS_RATIO_PoT_3x5.png)
+![Queens](\img\graph_updates\aQUEENS_RATIO_PoT_3x5.png)
 
-## Staten Island Scatterplot Rat Population Growth 2011 - 2020
+#### Staten Island Scatterplot Rat Population Growth 2011 - 2020
 
-![Staten](\img\graph_updates\STATENISLAND_RATIO_PoT_3x5.png)
+![Staten](\img\graph_updates\aSTATENISLAND_RATIO_PoT_3x5.png)
