@@ -35,7 +35,15 @@ As we can see, the year 2016 has such a large increase that in rat population th
 
 Did all the rats decide to proliferate in an organized effort to take control of Staten Island? As great as a premise that is for a movie, it is unlikely. Possible, but unlikely.
 
-In 2014, South Shore Rat Sighting Calls accounted for 1.708% of all the Rat Sighting Calls that year. In 2015 it was 1.549%. 2016, 1.547%. 2017, 1.362%. Finally in 2018, it accounted for 1.570%.
+In 2014, South Shore Rat Sighting Calls accounted for 1.708% of all the Rat Sighting Calls that year. In 2015 it was 1.549%.
+
+<p></p>
+2016, 1.547%.
+<p></p>
+2017, 1.362%.
+<p></p>
+
+Finally in 2018, it accounted for 1.570%.
 
 Not too much of a difference percentage wise, but with the method that a team member had come up with, which dynamically changes how the Mark-Recapture method is applied.
 
