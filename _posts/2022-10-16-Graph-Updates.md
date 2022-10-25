@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Graph Revision"
-subtitle: "An Interactive Scatterplot"
+title: "Interactive Scatterplot"
+subtitle: "Which Neighborhood Is The Rattiest?"
 background: "/img/graph_updates/train_bg.gif"
 ---
 
