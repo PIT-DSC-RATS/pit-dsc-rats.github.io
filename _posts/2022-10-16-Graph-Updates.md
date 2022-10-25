@@ -1,30 +1,15 @@
 ---
 layout: post
-title: "Zooming In"
-subtitle: "Breaking Down the Scatterplots to the Neighborhood-Level"
+title: "A Graph Revision"
+subtitle: "An Interactive Scatterplot"
 background: "/img/graph_updates/train_bg.gif"
 ---
 
-## Scatterplot Update
+## A Better Scatterplot
 
-We've previously established that changes in rat population may be erratic. So, it helps to look at rat populations at two points in time, 2011 and 2020, to see where we started and where we are right now. Did we improve or did we get worse?
+After some feedback, it seemed like the **"Rats Ratio 2020"** Scatterplot overall was not too helpful. The **"Rat / Square Meter"** metric was not able to convey it's intended purpose. So, we've updated the graph and this time we made it interactive! This one features a list of neighborhoods that you can toggle on and off and if you hover over a data point in the scatterplot it will show you information such as: the estimated number of People, Rats, and the Ratio between the two.
 
-#### Bronx Scatterplot Rat Population Growth 2011 - 2020
+##### Click The Image Preview To Find Out More About Your Neighborhood!
 
-![Bronx](\img\graph_updates\aBRONX_RATIO_PoT_3x5.png)
-
-#### Brooklyn Scatterplot Rat Population Growth 2011 - 2020
-
-![Brooklyn](\img\graph_updates\aBROOKLYN_RATIO_PoT_3x5.png)
-
-#### Manhattan Scatterplot Rat Population Growth 2011 - 2020
-
-![Manhattan](\img\graph_updates\aMANHATTAN_RATIO_PoT_3x5.png)
-
-#### Queens Scatterplot Rat Population Growth 2011 - 2020
-
-![Queens](\img\graph_updates\aQUEENS_RATIO_PoT_3x5.png)
-
-#### Staten Island Scatterplot Rat Population Growth 2011 - 2020
-
-![Staten](\img\graph_updates\aSTATENISLAND_RATIO_PoT_3x5.png)
+<a href="\img\graph_updates\test.html" target="_blank">
+![preview](\img\graph_updates\preview.png)</a>
