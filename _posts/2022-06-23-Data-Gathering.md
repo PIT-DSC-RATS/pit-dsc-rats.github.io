@@ -12,12 +12,12 @@ background: "/img/data_gathering/data_bg.gif"
 ![Rat](\img\data_gathering\ratbox.jpg)
 <span class="caption text-muted">Photographer: Gary Hershorn/Corbis News/Getty Images</span>
 
-Estimating the population of the furry New York Natives can either be very easy or very difficult. Is it as simple as "There's a rat for every person in the city" or Do we go on an excursion to find and count every rat? The latter is BIG ask for 4 interns. So, what do we do? We turn to the next best thing, estimations! As previously mentioned we can just say "There's one rat for every person in New York City" and be done with it. But is that really the case? Surely we can do better? And do better we did.
+Estimating the population of the furry New York Natives can either be very easy or very difficult. Is it as simple as saying "It's definitely more than 12 rats" or do we go on massive rat hunt to find and count every rat in the city? So, what do we do? We turn to the next best thing, estimations! The myth goes "There's one rat for every person in New York City" But is that really the case? Surely we can do better? And do better we did.
 
-Building on the work our mentor and project owner, [Jonathan L. Auerbach's](https://jauerbach.github.io/), we will be using his framework to try and get more accurate estimations of how many rats in New York City, and maybe even localize those estimations to a Borough or Neighborhood level, over the more conventional myth of the one to one ratio of people to rats.
+Building on the work our mentor and project owner, [Jonathan L. Auerbach](https://jauerbach.github.io/), we will be using his framework to try and get more accurate estimations of how many rats are in New York City, and maybe even localize those estimations to a Borough or Neighborhood level.
 
 [![nycopendata](\img\data_gathering\nycopendata.png)](https://opendata.cityofnewyork.us/data)
-<span class="caption text-muted">NYC OpenData has a catalog of datasets ranging from Maps of Subway Entrances, Film Permits, to 311 Calls. Visit the site for all you NYC data needs!</span>
+<span class="caption text-muted">NYC OpenData has a catalog of datasets ranging from Maps of Subway Entrances, Film Permits, to 311 Calls. Click the photo to visit the site!</span>
 
 ## Initial Data Cleaning with R filter()
 

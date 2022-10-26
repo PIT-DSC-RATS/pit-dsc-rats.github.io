@@ -26,3 +26,7 @@ We based our neighborhoods on this [Github Repo](https://github.com/erikgregoryw
 The X-Axis shows the Rat to Human Ratio, meaning the higher up your neighborhood's point is on the scatterplot, the closer it making the myth of there being one rat per person in New York City, true.
 
 The Y-Axis shows the Rat per Square Meter. So, on average if all the rats were equally spaced out. You would find one rat every 45 ~ 50 square meters or 500 square feet in Bushwick & Williamsburg. On the other hand, You would need to cover double the area to find one if you were in Northwest Brooklyn.
+
+The Dashed Lines represent the mean and increaseing standard deviations. Points that are under the **GREEN-LINE** are below the mean. Points above the **RED-LINE** are in the 95th percentile, i.e a **PROBLEM**.
+
+##### Central Brooklyn is the RATTIEST Neighborhood of 2020
