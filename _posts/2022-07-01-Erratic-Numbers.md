@@ -20,6 +20,7 @@ When a specific ZIP Code has a low volume of calls reporting Rat Sightings in a 
 Here we have a line graph showing the Rat Population in Staten Island separated into neighborhoods over time.
 
 ![statenisland](\img\erratic_numbers\staten_3x5.png)
+<span class="caption text-muted">Suspiciously massive spike in estimation</span>
 
 This graph shows a trend line for South Shore with a confidence region of 95%, which is the standard. This means that 95% of all results should be within that region.
 
