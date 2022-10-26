@@ -23,6 +23,3 @@ The Dynamic Mark-Recapture Method looks at the ZIP's call volume and decides whe
     border-radius: 50%;
 }
 </style>
-
-<img src = "\img\about_headshots\icaro.jpg" style = "display: block; margin-left: auto; margin-right: auto;">
-<span class="caption text-muted">very smart</span>
