@@ -16,10 +16,3 @@ A ZIP-level application of the Mark-Recapture method may be the most granular, b
 If ZIP Code-level is too granular and City-Level is too broad, what do we do? With the alteration that Icaro made to the Mark-Recapture Method we strike a balance between the two.
 
 The Dynamic Mark-Recapture Method looks at the ZIP's call volume and decides whether to apply Jonathan's City-Wide Mark-Recapture Method or the ZIP-Level Mark-Recapture Method. If there **ISN'T** enough calls, it applies the City-Wide Mark-Recapture and if there **IS** enough calls it applies a ZIP-Level Mark-Recapture.
-
-<style> img {
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
-}
-</style>
