@@ -7,11 +7,11 @@ background: "/img/fire_hydrants/hydrant_bg.jpg"
 
 ## 311 Calls - Are they reliable?
 
-A problem that arose after some discussions is the reliability of 311 calls. Granted we did take precautions with estimating Rat Populations with the use of buffer periods, but that did not mean anything for the reliability of the calls themselves. One could easily inflate our results with a coordinated effort, or on the flipside make it seem like there are no rats in an area because nobody bothers to report a sighting. So, what was something that was easily spotted, something that OpenData NYC records, and common enough for a group of interns and their mentors to observe. Fire Hydrants.
+A problem that arose after some discussions is the reliability of 311 calls. Granted we did take precautions with estimating Rat Populations with the use of buffer periods, but that did not mean anything for the reliability of the calls themselves. One could easily inflate our results with a coordinated effort, or on the flipside, make it seem like there are no rats in an area because nobody bothers to report a sighting. So, what was something that was easily spotted, something that OpenData NYC records, and common enough for a group of interns and their mentors to observe? Fire Hydrants.
 
 ## The Set-Up and Excursion
 
-The plan was simple, go out on select streets and avenues and record a specific type of traffic violation: Parking Near a Fire Hydrant. [It is illegal in New York City to park within 15 feet on either side of a fire hydrant.](https://www1.nyc.gov/html/dot/html/motorist/parking-regulations.shtml) We recorded all the necessary details of the violation. This included plate number, time, and location. We waited for a week or so for NYC OpenData to update their databases to then compare what we found against the [Open Parking and Camera Violations](https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89) Database from NYC OpenData that were ticketed.
+The plan was simple: go out on select streets and avenues and record a specific type of traffic violation: Parking Near a Fire Hydrant. [It is illegal in New York City to park within 15 feet on either side of a fire hydrant.](https://www1.nyc.gov/html/dot/html/motorist/parking-regulations.shtml) We recorded all the necessary details of the violation. This included plate number, time, and location. We waited for a week or so for NYC OpenData to update their databases to then compare what we found against the [Open Parking and Camera Violations](https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89) Database from NYC OpenData that were ticketed.
 
 ## Findings
 
